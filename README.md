@@ -1,7 +1,7 @@
 ## List all commands on Linux path.
 
 
-Example 
+Example :
 
 ```bash
 ./cmdlist.py | wc -l # Number of executables on path
